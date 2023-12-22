@@ -1,0 +1,17 @@
+__Programowanie:__
+
+Bardzo dokładne obejrzenie tutoriali oraz wykonanie WSZYSTKICH ćwiczeń lokalnie na swoim komputerze. Bardzo ważne jest pełne zrozumienie!
+
+Co trzeba koniecznie umieć:
+pętla while, pętla for, pętle zagnieżdżone, operacje arytmetyczne, podstawowe funkcje, tworzenie list i działania na ich elementach, podstawowa składania
+*tworzenie własnych funkcji, sliceing
+
+1️⃣ https://www.youtube.com/watch?v=_uQrJ0TkZlc od 00:00:00 do 02:01:45 2D Lists (włącznie z tym tematem)
+2️⃣ https://www.youtube.com/watch?v=rfscVS0vtbw od 0:00 do 3:12:41 (włącznie)
+Zadania, szczególnie ważne:
+Rozdział 1: 1,2,5*,9
+Rozdział 2 - cały
+Rozdział 3: zad 1-6 & 8-9 + 10 (będzie przydatne później)
+Rozdział 4: zad 1-7 & 9
+Rozdział 5. - cały
+Rozdział 6. zad 2 & 4-5 & 8-9
