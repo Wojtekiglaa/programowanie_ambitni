@@ -10,4 +10,4 @@ for y in range(1,a+1):
         c = 0
 # zobacze czy to tym mozna
 print(arr)
-#aha jednak nie
+#cj chyba naprawilem gitignore
