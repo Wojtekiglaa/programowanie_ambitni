@@ -1,0 +1,1 @@
+print(-(int(input("Podaj b: "))/int(input("Podaj a: "))))

@@ -1,6 +1,7 @@
 h = int(input("Podaj wysokosc trojkata: "))
-print("1")
-for x in range(1,h):
-    for a in range(1,x):
-        print(x+a,end="")
-#pozniej zrobie
+for x in range(1,h+1):
+    c = 0
+    for a in range(1,x+1):
+        print(" " * (h - x) + str(c+a), end=" ")# dobrze jest ale powinno tylko raz zprintowac xd
+    print("\n")
+#co kurwa
