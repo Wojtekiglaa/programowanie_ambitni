@@ -8,6 +8,5 @@ for y in range(1,a+1):
         if(c == 2):
             arr.append(x)
         c = 0
-# zobacze czy to tym mozna
-print(arr)
-#cj chyba naprawilem gitignore
+# ok to jakos inaczej trzeba
+#chyba ze ja nie umiem xd
