@@ -4,46 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="197559d6-641a-4348-b6fd-e26bf048fcf6" name="Changes" comment="wow">
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/1b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/1c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/5a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/5b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/7a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/7b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial4/R4_1a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_10_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_10_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_10_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_10_d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_1_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_1_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_2_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_2_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_3_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_3_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_4_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_4_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_5_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_5_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_6_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_6_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_6_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_8_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_8_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_9_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_9_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rozdzial5/R5_9_c.py" afterDir="false" />
+    <list default="true" id="197559d6-641a-4348-b6fd-e26bf048fcf6" name="Changes" comment="nmg">
+      <change afterPath="$PROJECT_DIR$/Rozdzial6/R6_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rozdzial6/R6_2_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rozdzial6/R6_2_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rozdzial6/R6_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rozdzial3/R3_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rozdzial3/R3_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rozdzial5/R5_10_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rozdzial5/R5_10_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rozdzial5/R5_10_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rozdzial5/R5_10_b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rozdzial5/R5_10_c.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rozdzial5/R5_10_c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rozdzial5/R5_10_d.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rozdzial5/R5_10_d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rozdzial5/R5_9_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rozdzial5/R5_9_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rozdzial5/R5_9_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rozdzial5/R5_9_b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rozdzial5/R5_9_c.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rozdzial5/R5_9_c.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +95,8 @@
     "Python.R3_7_b.executor": "Run",
     "Python.R3_8_b.executor": "Run",
     "Python.R3_9.executor": "Run",
+    "Python.R5_10_a.executor": "Run",
+    "Python.R5_10_b.executor": "Run",
     "Python.R5_1_a.executor": "Run",
     "Python.R5_1_b.executor": "Run",
     "Python.R5_2_a.executor": "Run",
@@ -134,6 +109,11 @@
     "Python.R5_6_c.executor": "Run",
     "Python.R5_8_a.executor": "Run",
     "Python.R5_9_a.executor": "Run",
+    "Python.R5_9_b.executor": "Run",
+    "Python.R5_9_c.executor": "Run",
+    "Python.R6_1.executor": "Run",
+    "Python.R6_2_a.executor": "Run",
+    "Python.R6_3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -182,7 +162,7 @@
       <workItem from="1703099273495" duration="1198000" />
       <workItem from="1703257881417" duration="5541000" />
       <workItem from="1703344254078" duration="2238000" />
-      <workItem from="1703617655518" duration="13502000" />
+      <workItem from="1703617655518" duration="18612000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -240,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703628673788</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="nmg">
+      <option name="closed" value="true" />
+      <created>1703685913097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703685913097</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,7 +265,8 @@
     <MESSAGE value="psycha = siada" />
     <MESSAGE value="ołkej lets go" />
     <MESSAGE value="wow" />
-    <option name="LAST_COMMIT_MESSAGE" value="wow" />
+    <MESSAGE value="nmg" />
+    <option name="LAST_COMMIT_MESSAGE" value="nmg" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_6.coverage" NAME="R3_6 Coverage Results" MODIFIED="1703625475997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
@@ -290,8 +279,25 @@
     <SUITE FILE_PATH="coverage/programowanie_ambitni$1.coverage" NAME="1 Coverage Results" MODIFIED="1702545229362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_4.coverage" NAME="R1_4 Coverage Results" MODIFIED="1703258954149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_1.coverage" NAME="R1_1 Coverage Results" MODIFIED="1703258251171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_1_b.coverage" NAME="R3_1_b Coverage Results" MODIFIED="1703345007803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$1a.coverage" NAME="1a Coverage Results" MODIFIED="1703682567230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial4" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R6_3.coverage" NAME="R6_3 Coverage Results" MODIFIED="1703692566590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial6" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_9_c.coverage" NAME="R5_9_c Coverage Results" MODIFIED="1703690476816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_1_c.coverage" NAME="R3_1_c Coverage Results" MODIFIED="1703345254771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_3_b.coverage" NAME="R1_3_b Coverage Results" MODIFIED="1703258750501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_9_a.coverage" NAME="R5_9_a Coverage Results" MODIFIED="1703688993107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R6_2_a.coverage" NAME="R6_2_a Coverage Results" MODIFIED="1703692011617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial6" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_9_a.coverage" NAME="R1_9_a Coverage Results" MODIFIED="1703621753510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial1" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_10_a.coverage" NAME="R5_10_a Coverage Results" MODIFIED="1703690793620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_2_a.coverage" NAME="R5_2_a Coverage Results" MODIFIED="1703683602883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_5.coverage" NAME="R3_5 Coverage Results" MODIFIED="1703624976082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_1_a.coverage" NAME="R3_1_a Coverage Results" MODIFIED="1703344920945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_9_b.coverage" NAME="R1_9_b Coverage Results" MODIFIED="1703622003363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial1" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_8_a.coverage" NAME="R5_8_a Coverage Results" MODIFIED="1703685429917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_1_a.coverage" NAME="R5_1_a Coverage Results" MODIFIED="1703683528579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_9_b.coverage" NAME="R5_9_b Coverage Results" MODIFIED="1703689076721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_10_b.coverage" NAME="R5_10_b Coverage Results" MODIFIED="1703690863452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_2_b.coverage" NAME="R5_2_b Coverage Results" MODIFIED="1703683711126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_1_b.coverage" NAME="R3_1_b Coverage Results" MODIFIED="1703345007803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_1_b.coverage" NAME="R5_1_b Coverage Results" MODIFIED="1703683554965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R2_1_a.coverage" NAME="R2_1_a Coverage Results" MODIFIED="1703622763276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial2" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_8.coverage" NAME="R1_8 Coverage Results" MODIFIED="1703260373180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial1" />
@@ -301,26 +307,16 @@
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_2.coverage" NAME="R3_2 Coverage Results" MODIFIED="1703345441902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_7_b.coverage" NAME="R3_7_b Coverage Results" MODIFIED="1703626290990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_6_a.coverage" NAME="R5_6_a Coverage Results" MODIFIED="1703684463104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_1_c.coverage" NAME="R3_1_c Coverage Results" MODIFIED="1703345254771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_10.coverage" NAME="R1_10 Coverage Results" MODIFIED="1703261181598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial1" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R2_1_c.coverage" NAME="R2_1_c Coverage Results" MODIFIED="1703622831977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial2" />
+    <SUITE FILE_PATH="coverage/programowanie_ambitni$R6_1.coverage" NAME="R6_1 Coverage Results" MODIFIED="1703691410811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial6" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_3.coverage" NAME="R1_3 Coverage Results" MODIFIED="1703258617483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_3_b.coverage" NAME="R1_3_b Coverage Results" MODIFIED="1703258750501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_9_a.coverage" NAME="R5_9_a Coverage Results" MODIFIED="1703685602529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_5_a.coverage" NAME="R1_5_a Coverage Results" MODIFIED="1703259143640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_9_a.coverage" NAME="R1_9_a Coverage Results" MODIFIED="1703621753510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial1" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_2_a.coverage" NAME="R5_2_a Coverage Results" MODIFIED="1703683602883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_5.coverage" NAME="R3_5 Coverage Results" MODIFIED="1703624976082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_5_a.coverage" NAME="R5_5_a Coverage Results" MODIFIED="1703684152182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_6_b.coverage" NAME="R1_6_b Coverage Results" MODIFIED="1703259643812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial1" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R3_1_a.coverage" NAME="R3_1_a Coverage Results" MODIFIED="1703344920945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial3" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_9_b.coverage" NAME="R1_9_b Coverage Results" MODIFIED="1703622003363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial1" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_8_a.coverage" NAME="R5_8_a Coverage Results" MODIFIED="1703685429917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_1_a.coverage" NAME="R5_1_a Coverage Results" MODIFIED="1703683528579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_2.coverage" NAME="R1_2 Coverage Results" MODIFIED="1703258359443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_7.coverage" NAME="R1_7 Coverage Results" MODIFIED="1703260090652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial1" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_6_b.coverage" NAME="R5_6_b Coverage Results" MODIFIED="1703684833923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
     <SUITE FILE_PATH="coverage/programowanie_ambitni$R1_5_b.coverage" NAME="R1_5_b Coverage Results" MODIFIED="1703622499056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial1" />
-    <SUITE FILE_PATH="coverage/programowanie_ambitni$R5_2_b.coverage" NAME="R5_2_b Coverage Results" MODIFIED="1703683711126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Rozdzial5" />
   </component>
 </project>
