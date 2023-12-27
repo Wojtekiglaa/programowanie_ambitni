@@ -8,5 +8,3 @@ def nwd(a, b):
     return a
 print(nwd(liczby[0], liczby[1]))
 #nie kumam
-#koniec na dzisiaj jutro wigilia czas na odpoczynek
-#todo: jak dodac .idea do gitignore
