@@ -20,3 +20,4 @@ while True:
         print(zlacz(liczby, znaki))
         break
 # jakos tak
+# co jest
