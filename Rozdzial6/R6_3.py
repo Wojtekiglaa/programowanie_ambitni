@@ -10,4 +10,3 @@ for x in range(0,n):
 print(arr)
 #nwm xd
 #https://www.geeksforgeeks.org/python-using-2d-arrays-lists-the-right-way/
-#naprawiamgithub
