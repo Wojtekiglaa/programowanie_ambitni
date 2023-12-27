@@ -13,4 +13,3 @@ else:
 #jestem bogiem
 #https://www.matemaks.pl/liczby-pierwsze.html
 #liczba calkowita nieujemna to tez mamy o to sprawdzac?? idk
-#nie wiem jak to wyszlo ale jest xd
