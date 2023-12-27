@@ -9,4 +9,4 @@ if(n in arr):
     print("TAK")
 else:
     print("NIE")
-#tak jak panowie pisali
+#idk
