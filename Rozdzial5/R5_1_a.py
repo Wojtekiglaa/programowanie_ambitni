@@ -10,3 +10,4 @@ while True:
         break
     else:
         arr.append(int(x))
+#print (*arr) bez struktury

@@ -1,6 +1,6 @@
 #a
 x = 9
-for a in range(0,x):
+for a in range(x):
     print("*",end="")
 #b
 y = int(input("\nWpisz liczbe n: "))
