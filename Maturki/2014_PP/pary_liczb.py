@@ -2,11 +2,12 @@ liczby = open("paryliczb.txt", "r").readlines()
 liczby = [x.strip() for x in liczby]
 liczby2 = [x.split() for x in liczby]
 count = 0
-def suma_cyfr(n):
-    if n > 0:
-        s = (n-1) // 9
-        return n-9*s
-    return 0
+def suma_cyfr(liczba):
+    suma = 0
+    while liczba > 0:
+        suma += liczba % 10 # (*)
+        liczba //= 10 # (**)
+    return suma
 for x in liczby2:
     for a in x:
         for liczba in a:
@@ -17,6 +18,7 @@ print(count)
 licz = 0
 for x in liczby2:
     for a in x:
+        print(a)
         if suma_cyfr(int(x[0])) == suma_cyfr(int(x[1])):
             licz += 1
-print(licz) #nie wiem xd
+print(licz) #dobra tu jest cos nie tak ale nie wiem co
