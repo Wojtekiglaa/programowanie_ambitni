@@ -41,7 +41,7 @@ for x in napisy:
     z = 0
 print(f"nie pamietam co tam bylo: {jt, zt}")
 #---------------------------------------------------
-# nie robie to funkcjami bo te zmienne mi sie beda pierdolic
+# nie robie to funkcjami bo te zmienne mi sie beda mylic
 licz = 0
 for a in range(2,16+1):
     for x in napisy:

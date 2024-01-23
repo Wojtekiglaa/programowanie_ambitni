@@ -1,5 +1,5 @@
 cyfry = open("cyfry.txt", "r").readlines()
-sex = cyfry
+test = cyfry
 cyfry = [x.strip() for x in cyfry]
 parzyste = 0
 for i in range(len(cyfry)):
@@ -13,22 +13,22 @@ suma = 0
 lmin = ""
 lmax = ""
 for cyfra in cyfry:
+    suma = 0
     for i in range(len(cyfra)-1):
         suma += int(cyfra[i])
         if suma > smax:
             smax = suma
             lmax = cyfra
         else:
-            smin = suma
+            smin = suma #zobaczyc co jest nie tak
             lmin = cyfra
-    suma = 0
 print(f"Suma: {smax, smin, lmax,lmin}") # najmniejsza nie działa xd
 #---------------------------------------------------
 count = 0
-for i in sex:
-    for a in range(len(cyfry)-1):
-        if i[a] < i[a+1]:
+for i in cyfry:
+    count = 0
+    for a in range(len(i)-1):
+        if int(i[a]) < int(i[a+1]):
             count += 1
-            if(count == len(i[a])):
-                print(i[a])
-                count = 0 #czemu nie dzial xd
+    if(count == len(i)-1):
+        print(i)#czemu nie dziala xd

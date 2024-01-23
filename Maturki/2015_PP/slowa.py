@@ -21,6 +21,8 @@ for slowo in nowe:
 print("\nLustrzane odbicie:\n")
 for slowo in nowe:
     if slowo in slowa:
+        if(len(slowo) == 1):
+            slowacount = slowa.count(slowo) #????
         slowacount = slowa.count(slowo[::-1])
     print(slowo,slowacount)
     slowacount = 0
