@@ -11,6 +11,7 @@ for x in range(1,13):
             count += 1
     print(f"{x}: {count}")
     count = 0
+print("\n")
 #---------------------------------------------------
 for slowo in nowe:
     if slowo in slowa:
@@ -20,10 +21,11 @@ for slowo in nowe:
 #---------------------------------------------------
 print("\nLustrzane odbicie:\n")
 for slowo in nowe:
+    slowacount = 0
     if slowo in slowa:
         if(len(slowo) == 1):
             slowacount = slowa.count(slowo) #????
         slowacount = slowa.count(slowo[::-1])
     print(slowo,slowacount)
-    slowacount = 0
+    # slowacount = 0
 # cos jest nie tak w tych krotkich ale reszta jest g
