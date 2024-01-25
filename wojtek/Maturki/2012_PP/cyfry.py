@@ -8,21 +8,19 @@ for i in range(len(cyfry)):
 print(f"Parzyste: {parzyste}")
 #---------------------------------------------------
 smax = 0
-smin = 0
+smin = float("inf")
 suma = 0
 lmin = ""
 lmax = ""
 for cyfra in cyfry:
-    suma = 0
-    for i in range(len(cyfra)-1):
-        suma += int(cyfra[i])
-        if suma > smax:
-            smax = suma
-            lmax = cyfra
-        else:
-            smin = suma #zobaczyc co jest nie tak
-            lmin = cyfra
-print(f"Suma: {smax, smin, lmax,lmin}") # najmniejsza nie działa xd
+    suma = sum(int(c) for c in cyfra)  # copilot naprawil
+    if suma > smax:                    # ej dobre to ten sposob
+        smax = suma
+        lmax = cyfra
+    if suma < smin:
+        smin = suma
+        lmin = cyfra
+print(f"Suma: {smax, smin, lmax, lmin}")
 #---------------------------------------------------
 count = 0
 for i in cyfry:
