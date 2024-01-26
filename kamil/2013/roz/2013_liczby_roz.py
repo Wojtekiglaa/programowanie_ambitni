@@ -16,6 +16,15 @@ liczby = [x.strip() for x in liczby]
 # print(ile)
 
 # C
-for q in liczby:
-    for a in range(len(q)-1):
-        if
+git = []
+for x in liczby:
+    count = 0
+    for a in range(len(x)-1):
+        if str(int(x))[a] <= str(int(x))[a+1]:
+            count += 1
+    if count == len(x)-1:
+        git.append(int(x))
+print(len(git), max(git), min(git))
+
+
+
