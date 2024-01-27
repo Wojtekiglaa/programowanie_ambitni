@@ -17,7 +17,7 @@ for znak in znaki:
     g = True
     for count in range(len(znak)-1):
         if sorted(znak[0])!=sorted(znak[count+1]):
-            g = False
+            g = False # jak tu false to breaknie i jedna luinijka z znakofznaki sa pomijane
             break
     if g:
         print(znak)

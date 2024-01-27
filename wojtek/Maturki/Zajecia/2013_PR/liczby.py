@@ -17,11 +17,8 @@ pasujace = []
 for b in liczby:
     count2 = 0
     for a in range(len(b)-1):
-        # print(b[a],b[a+1])
         if str(int(b))[a] <= str(int(b))[a+1]:
             count2 += 1
-    if count2 == len(b)-1: #czemu -1, bo len tez mamy -1????
+    if count2 == len(b)-1:
         pasujace.append(int(b))
-
-# print(pasujace)
-print(len(pasujace), max(pasujace), min(pasujace)) # dobra juz dziala
+print(len(pasujace), max(pasujace), min(pasujace))
