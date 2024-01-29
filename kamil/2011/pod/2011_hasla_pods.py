@@ -1,4 +1,4 @@
-lines = open("hasla.txt","r").readlines()
+lines = open("hasla.txt", "r").readlines()
 for  i in range(len(lines)):
     lines[i] = lines[i].rstrip()
 print(lines)
