@@ -1,0 +1,1 @@
+anagram = open("tj.txt", "r").readlines()

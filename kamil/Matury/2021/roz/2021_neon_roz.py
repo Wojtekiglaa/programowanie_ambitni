@@ -1,4 +1,4 @@
-instrukcje = open("instrukcje.txt","r").readlines()
+instrukcje = open("instrukcje.txt", "r").readlines()
 instrukcje = [x.strip().split(' ') for x in instrukcje]
 
 # A -----------------------
