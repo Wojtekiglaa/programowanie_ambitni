@@ -20,7 +20,30 @@ napisy = [x.strip() for x in napisy]
 
 
 # B ---------------------------
-ile = 0
-for i in napisy:
-    for a in range(len(i.rstrip()-1)):
-        if x[a] < x[a+]:
+# def czyRos(x):
+#     for i in range(len(x)-1):
+#         if ord(x[i]) >= ord(x[i+1]):
+#             return False
+#     return True
+# def znajdz_wyrazy_rosnace(napisy):
+#     for line in napisy:
+#         line = line.strip()
+#         if czyRos(line):
+#             print(line)
+# znajdz_wyrazy_rosnace(napisy)
+
+# C ----------------------------
+def znajdz_pow(napisy):
+    with open("NAPIS.txt", "r") as file:
+        napisy = file.read().splitlines()
+
+    licznik ={}
+    powtorzenia = set()
+    for napis in napisy:
+        if napis in licznik:
+            licznik[napis] += 1
+        else:
+            licznik[napis] = 1
+    for powtorzenie in powtorzenia:
+        print(powtorzenia)
+znajdz_pow(napisy)
