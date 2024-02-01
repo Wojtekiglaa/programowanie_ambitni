@@ -37,5 +37,5 @@ for x in instrukcje:
         else:
             continue
 
-print(wyraz)
+print(*wyraz)
 #------------------------
