@@ -33,17 +33,19 @@ napisy = [x.strip() for x in napisy]
 # znajdz_wyrazy_rosnace(napisy)
 
 # C ----------------------------
-def znajdz_pow(napisy):
-    with open("NAPIS.txt", "r") as file:
+def znajdz_powtorzenia(napisy):
+    with open("NAPIS.txt", 'r') as file:
         napisy = file.read().splitlines()
 
-    licznik ={}
+    licznik = {}
     powtorzenia = set()
+
     for napis in napisy:
         if napis in licznik:
             licznik[napis] += 1
+            powtorzenia.add(napis)
         else:
             licznik[napis] = 1
     for powtorzenie in powtorzenia:
-        print(powtorzenia)
-znajdz_pow(napisy)
+        print(powtorzenie)
+znajdz_powtorzenia(napisy)
