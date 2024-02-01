@@ -48,4 +48,5 @@ def znajdz_powtorzenia(napisy):
             licznik[napis] = 1
     for powtorzenie in powtorzenia:
         print(powtorzenie)
+
 znajdz_powtorzenia(napisy)
