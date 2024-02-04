@@ -15,6 +15,6 @@ count = 0
 for x in sameciagi:
     roznica = int(x[1]) - int(x[0])
 
-    if int(x[1]) - int(x[0]) != int(x[2]) - int(x[1]):
+    if int(x[1]) - int(x[0]) == int(x[2]) - int(x[1]):
         count += 1
 print(count)

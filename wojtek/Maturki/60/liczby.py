@@ -10,7 +10,7 @@ print(count)
 ostatnie = []
 for x in liczby:
     ostatnie.append(int(x)) #????
-print(sorted(ostatnie)[-2:])
+print(sorted(ostatnie)[-2:]) #dwie ostatnie nie dzialaja reszta git
 #--------------------------------------------------
 #znajdz liczbe dzielnikow
 def dzielniki(n):
