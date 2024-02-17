@@ -33,7 +33,33 @@ for x in geny:
     dlugosci.append(len(gen))
 print(max(dlugosci),max(dlugoscigenow))
 #--------------------------------------------------
-countgatunki = 0
+liczba_gatunkow = 0
+max_liczba_osobnikow = 0
+genotypy_do_dlugosci = {}
+for genotyp in geny:
+    dlugosc = len(genotyp)
+    if dlugosc not in genotypy_do_dlugosci:
+      liczba_gatunkow += 1
+      genotypy_do_dlugosci[dlugosc] = 0#tworzy nowe chyba
+    genotypy_do_dlugosci[dlugosc] += 1
+    max_liczba_osobnikow = max(max_liczba_osobnikow, genotypy_do_dlugosci[dlugosc])
+print(liczba_gatunkow, max_liczba_osobnikow) #gogle gemini zrbiolo wtf
+#--------------------------------------------------
+odporny = 0
+silnieodporny = 0
 for x in geny:
-    countgatunki += 1
-print(countgatunki)
+    if x == x[::-1]:
+        silnieodporny += 1
+for x in geny:
+    gen = GetGeny(x)
+    if gen == gen[::-1]: #nie wiem czemu kurwa nie dziala xd
+        odporny += 1
+print(odporny,silnieodporny)
+#--------------------------------------------------
+lengatunkow = []
+ilegatunkow = 0
+for x in geny:
+    lengatunkow.append(len(x))
+    if len(x) not in lengatunkow:
+        ilegatunkow += 1
+print(ilegatunkow) #kurwa nie wiem xd
