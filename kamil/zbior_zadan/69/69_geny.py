@@ -1,5 +1,5 @@
-geny = open("dane_geny.txt", "r").readlines()
-geny = [x.strip() for x in geny]
+lines = open("dane_geny.txt", "r").readlines()
+lines = [x.strip() for x in lines]
 # for x in geny:
 #     idpoczatek = x.index("AA")
 #     idkoniec = x.index("BB")
@@ -17,7 +17,7 @@ def GetGeny(a):
     return lista
 #--------------------------------------------------
 countmutacja = 0
-for x in geny:
+for x in lines:
     gen = GetGeny(x)
     for x in gen:
         if "BCDDC" in x:
@@ -26,7 +26,7 @@ print(countmutacja)
 #--------------------------------------------------
 dlugosci = []
 dlugoscigenow = []
-for x in geny:
+for x in lines:
     gen = GetGeny(x)
     for x in gen:
         dlugoscigenow.append(len(x))
@@ -36,7 +36,7 @@ print(max(dlugosci),max(dlugoscigenow))
 liczba_gatunkow = 0
 max_liczba_osobnikow = 0
 genotypy_do_dlugosci = {}
-for genotyp in geny:
+for genotyp in lines:
     dlugosc = len(genotyp)
     if dlugosc not in genotypy_do_dlugosci:
       liczba_gatunkow += 1
@@ -47,10 +47,10 @@ print(liczba_gatunkow, max_liczba_osobnikow)
 #--------------------------------------------------
 odporny = 0
 silnieodporny = 0
-for x in geny:
+for x in lines:
     if x == x[::-1]:
         silnieodporny += 1
-for x in geny:
+for x in lines:
     gen = GetGeny(x)
     if gen == gen[::-1]:
         odporny += 1
@@ -58,7 +58,7 @@ print(odporny,silnieodporny)
 #--------------------------------------------------
 lengatunkow = []
 ilegatunkow = 0
-for x in geny:
+for x in lines:
     lengatunkow.append(len(x))
     if len(x) not in lengatunkow:
         ilegatunkow += 1
