@@ -5,7 +5,7 @@ geny = [x.strip() for x in geny]
 #     idkoniec = x.index("BB")
 #     gen = x[idpoczatek+2:idkoniec]
 #     print(gen)
-def GetGeny(a):
+def GetGenLength(a):
     a = str(a)
     lista = []
     while "AA" in a and "BB" in a:
@@ -18,7 +18,7 @@ def GetGeny(a):
 #--------------------------------------------------
 countmutacja = 0
 for x in geny:
-    gen = GetGeny(x)
+    gen = GetGenLength(x)
     for x in gen:
         if "BCDDC" in x:
             countmutacja += 1
@@ -27,7 +27,7 @@ print(countmutacja)
 dlugosci = []
 dlugoscigenow = []
 for x in geny:
-    gen = GetGeny(x)
+    gen = GetGenLength(x)
     for x in gen:
         dlugoscigenow.append(len(x))
     dlugosci.append(len(gen))
@@ -51,8 +51,8 @@ for x in geny:
     if x == x[::-1]:
         silnieodporny += 1
 for x in geny:
-    gen = GetGeny(x)
-    if gen == gen[::-1]: #nie wiem czemu kurwa nie dziala xd
+    gen = GetGenLength(x)
+    if gen == gen[::-1]: #nie wiem czemu nie dziala xd
         odporny += 1
 print(odporny,silnieodporny)
 #--------------------------------------------------
@@ -62,4 +62,4 @@ for x in geny:
     lengatunkow.append(len(x))
     if len(x) not in lengatunkow:
         ilegatunkow += 1
-print(ilegatunkow) #kurwa nie wiem xd
+print(ilegatunkow) #nie wiem xd
