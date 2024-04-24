@@ -1,12 +1,14 @@
-instrukcje = [x.split() for x in open("instrukcje_przyklad.txt","r").readlines()]
+instrukcje = [x.strip() for x in open("instrukcje.txt","r").readlines()]
 print(instrukcje)
 startowy = 0,0
 waz = 0,0
-for x in instrukcje:
-    if x == "P":
+for instrukcja in instrukcje:
+    if instrukcja == "P":
         print("Przod")
-    # if instrukcje[x] == "L":
-    #
-    # if instrukcje[x] == "P":
-    #
-    # if instrukcje[x] == "J":
+    if instrukcja == "L":
+        print("lewo")
+    if instrukcja == "P":
+        print("prawo")
+    if instrukcja == "J":
+        print("jedz")
+print()
