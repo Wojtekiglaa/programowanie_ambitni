@@ -11,7 +11,7 @@ for x in range(1,13):
 for slowo in nowe:
     if slowo in slowa:
         count = slowa.count(slowo)
-    if slowo[::-1] in slowa:
+    if slowo[::-1] in slowa: #bez ifa mozna
         licz = slowa.count(slowo[::-1])
     print(slowo,count,licz)
     count = 0
