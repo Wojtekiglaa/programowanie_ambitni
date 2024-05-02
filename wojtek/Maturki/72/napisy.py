@@ -8,7 +8,7 @@ print(count)
 #x.starts/endswith
 for napis in napisy:
     if napis[-1].startswith(napis[0]):
-        print(napis[0],napis[-1],napis[-1][len(napis[0]):])
+        print(napis[0],napis[-1],napis[-1][len(napis[0]):]) #!!!!!
 #--------------------------------------------------
 def koncowka(a,b):
     ad = len(a)
