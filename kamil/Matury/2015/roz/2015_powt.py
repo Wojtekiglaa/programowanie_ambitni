@@ -9,3 +9,10 @@ slowa = [x.strip() for x in slowa]
 # print(ile)
 
 # 4.2 ------------------------------
+# d = 0
+# for x in slowa:
+#     if x.count("01") == 1 and x.count("10") == 0:
+#         d += 1
+# print(d)
+
+# 4.3 ---------------------------------
