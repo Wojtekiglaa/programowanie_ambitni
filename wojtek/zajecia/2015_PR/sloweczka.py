@@ -15,3 +15,9 @@ for slowo in slowa:
         if slowo[0] == "0":
             count2 +=1
 print(count2)
+#--------------------------------------------
+najdluzszy_blok = max(len(max(slowo.split('1'))) for slowo in slowa)
+for slowo in slowa:
+    if len(max(slowo.split('1'))) == najdluzszy_blok:
+        print(slowo)
+print(najdluzszy_blok)
