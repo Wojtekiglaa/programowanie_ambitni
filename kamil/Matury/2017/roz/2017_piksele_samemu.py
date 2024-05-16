@@ -10,23 +10,24 @@ lines = [[int(y) for y in x] for x in lines]
 #     y.append(min(x))
 # print(max(x),min(y))
 
-
-#6.2 ---------------------------------
+# 6.2 --------------------------------
 # ile = 0
 # for x in range(200):
 #     if lines[x] != lines[x][::-1]:
 #         ile += 1
 # print(ile)
 
-#6.4 ---------------------------------
+# 6.3 ---------------------------------
+
+# 6.4---------------------------------
 max = 0
-for y in range(0, 320):
-    ile = 1
-    for x in range(1,200):
-        if lines[x-1][y] == lines[x][y]:
-            ile + 1
+ile = 1
+for y in range(320):
+    for x in range(200):
+        if lines[x][y] == lines[x-1][y]:
+            ile += 1
         else:
-            if ile > max:
+            if ile>max:
                 max = ile
             ile = 1
 print(max)
